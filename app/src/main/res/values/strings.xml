@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess A Number</string>
+    <string name="button_guess">GUESS</string>
+    <string name="edt_number">Number...</string>
+    <string name="CORRECT">CORRECT!</string>
+    <string name="HIGHER">HIGHER</string>
+    <string name="LOWER">LOWER</string>
+</resources>
